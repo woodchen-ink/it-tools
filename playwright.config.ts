@@ -29,8 +29,8 @@ export default defineConfig({
     trace: 'on-first-retry',
 
     testIdAttribute: 'data-test-id',
-    locale: 'en-GB',
-    timezoneId: 'Europe/Paris',
+    locale: 'zh_CN',
+    timezoneId: 'Asia/Shanghai',
   },
 
   /* Configure projects for major browsers */
